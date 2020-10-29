@@ -6,4 +6,4 @@ Renacan Belajar Django
   * Belajar inisialisasi, if else, for, dll
 - Belajar pemahaman library
   * nanti pakenya gimana, teru skalau mau buat kaya gimana
-
+- Tambah Materi Belajar tentang logika
