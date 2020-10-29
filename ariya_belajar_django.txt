@@ -1,0 +1,8 @@
+Renacan Belajar Django
+
+- Belajar install library
+  * Belajar installnya gimana pake pip atau pake python atau pake apapun
+- Belajar struktu bahasa
+  * Belajar inisialisasi, if else, for, dll
+- Belajar pemahaman library
+
