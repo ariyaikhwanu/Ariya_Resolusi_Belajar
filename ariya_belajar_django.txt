@@ -1,0 +1,5 @@
+Renacan Belajar Django
+
+- Belajar install library
+- Belajar struktu bahasa
+- Belajar pemahaman library
